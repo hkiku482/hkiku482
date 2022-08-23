@@ -12,7 +12,6 @@
   </a>
 </p>
 
-おもちゃを作ったり学校の課題の開発をしたりしています。
 
 <!--
 **hkiku482/hkiku482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
