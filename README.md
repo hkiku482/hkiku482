@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img src="https://typograssy.deno.dev/api?text=%EF%BC%A1%EF%BD%92%EF%BD%83%EF%BD%88%20%EF%BD%89%EF%BD%93%20%EF%BD%94%EF%BD%88%EF%BD%85%20%EF%BD%82%EF%BD%85%EF%BD%93%EF%BD%94!%E3%80%80&l1=9bd9e9&l2=40aec4&l3=4b89b9&l4=186c91&speed=50" />
+<img src="https://typograssy.deno.dev/api?text=%EF%BC%A1%EF%BD%92%EF%BD%83%EF%BD%88%20%EF%BD%89%EF%BD%93%20%EF%BD%94%EF%BD%88%EF%BD%85%20%EF%BD%82%EF%BD%85%EF%BD%93%EF%BD%94!%E3%80%80&l1=9bd9e9&l2=40aec4&l3=4b89b9&l4=186c91&speed=80" />
 </div>
 
 <!--
