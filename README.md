@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=hkiku482)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hkiku482) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkiku482)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hkiku482)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hkiku482&utcOffset=9)
